@@ -19,6 +19,11 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Ignore Spring files.
+/spring/*.pid
+
+
 ### https://raw.github.com/github/gitignore/01c81930bf329ad34200da234017ea3ec36c5b47/Global/JetBrains.gitignore
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
